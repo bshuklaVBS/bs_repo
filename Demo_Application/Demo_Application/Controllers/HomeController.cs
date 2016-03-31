@@ -9,7 +9,8 @@ namespace Demo_Application.Controllers
     public class HomeController : Controller
     {
         // First line of Comment.
-        // Second Line 
+        // Second Line
+        // Third line
         public ActionResult Index()
         {
             return View();
